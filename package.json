@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build && next export"
+  },
+  "dependencies": {
+    "aos": "^2.2.0",
+    "next": "^4.1.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.1.1",
+    "react-parallax": "^1.5.0",
+    "react-spinners": "^0.2.5",
+    "react-youtube": "^7.5.0"
+  }
+}
